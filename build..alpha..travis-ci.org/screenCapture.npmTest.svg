@@ -1,0 +1,192 @@
+<svg height="3022" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="3022" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26"></tspan>
+<tspan x="10" y="42">&gt; npmdoc-html5-to-pdf@0.0.1 test /home/travis/build/npmdoc/node-npmdoc-html5-to-pdf</tspan>
+<tspan x="10" y="58">&gt; (set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)</tspan>
+<tspan x="10" y="74"></tspan>
+<tspan x="10" y="90"></tspan>
+<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-07T03:06:37Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
+<tspan x="10" y="122">html5-to-pdf</tspan>
+<tspan x="10" y="138"></tspan>
+<tspan x="10" y="154"></tspan>
+<tspan x="10" y="170">covering $ /home/travis/.nvm/versions/node/v6.10.2/bin/node /home/travis/build/npmdoc/node-npmdo\</tspan>
+<tspan x="10" y="186">c-html5-to-pdf/test.js</tspan>
+<tspan x="10" y="202">merging file:///home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tmp/build/test-report.json to \</tspan>
+<tspan x="10" y="218">test-report</tspan>
+<tspan x="10" y="234">&gt; server listening on http-port 65123</tspan>
+<tspan x="10" y="250"></tspan>
+<tspan x="10" y="266">  Usage: test [options] &lt;path/to/html-file-path&gt;</tspan>
+<tspan x="10" y="282"></tspan>
+<tspan x="10" y="298">  Options:</tspan>
+<tspan x="10" y="314"></tspan>
+<tspan x="10" y="330">    -h, --help                                  output usage information</tspan>
+<tspan x="10" y="346">    -V, --version                               output the version number</tspan>
+<tspan x="10" y="362">    -i --include &lt;path&gt;..&lt;path&gt;                 path to either a javascript asset, or a css asse\</tspan>
+<tspan x="10" y="378">t</tspan>
+<tspan x="10" y="394">    --page-size [size]                          'A3', 'A4', 'Legal', 'Letter' or 'Tabloid'</tspan>
+<tspan x="10" y="410">    --margin-type [n]                           Specify the type of margins to use: 0 - default,\</tspan>
+<tspan x="10" y="426"> 1 - none, 2 - minimum</tspan>
+<tspan x="10" y="442">    --landscape                                 If set it will change orientation to landscape f\</tspan>
+<tspan x="10" y="458">rom portriat</tspan>
+<tspan x="10" y="474">    --print-background                          Whether to print CSS backgrounds</tspan>
+<tspan x="10" y="490">    -t --template [template]                    The template to used. Defaults to html5bp.</tspan>
+<tspan x="10" y="506">    --template-path [/path/to/template/folder]  Specifies the template folder path for static as\</tspan>
+<tspan x="10" y="522">sets, this will override template.</tspan>
+<tspan x="10" y="538">    -d --render-delay [milli-seconds]           Delay before rendering the PDF (give HTML and CS\</tspan>
+<tspan x="10" y="554">S a chance to load)</tspan>
+<tspan x="10" y="570">    -o --output &lt;path&gt;                          Path of where to save the PDF</tspan>
+<tspan x="10" y="586"></tspan>
+<tspan x="10" y="602">Missing input path first argument</tspan>
+<tspan x="10" y="618">created apidoc file:///home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tmp/build/apidoc.html</tspan>
+<tspan x="10" y="634"></tspan>
+<tspan x="10" y="650"></tspan>
+<tspan x="10" y="666">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tmp\</tspan>
+<tspan x="10" y="682">/electron.15b4660c48e0.82a32153683a2.html</tspan>
+<tspan x="10" y="698"></tspan>
+<tspan x="10" y="714"></tspan>
+<tspan x="10" y="730">  Usage: test [options] &lt;path/to/html-file-path&gt;</tspan>
+<tspan x="10" y="746"></tspan>
+<tspan x="10" y="762">  Options:</tspan>
+<tspan x="10" y="778"></tspan>
+<tspan x="10" y="794">    -h, --help                                  output usage information</tspan>
+<tspan x="10" y="810">    -V, --version                               output the version number</tspan>
+<tspan x="10" y="826">    -i --include &lt;path&gt;..&lt;path&gt;                 path to either a javascript asset, or a css asse\</tspan>
+<tspan x="10" y="842">t</tspan>
+<tspan x="10" y="858">    --page-size [size]                          'A3', 'A4', 'Legal', 'Letter' or 'Tabloid'</tspan>
+<tspan x="10" y="874">    --margin-type [n]                           Specify the type of margins to use: 0 - default,\</tspan>
+<tspan x="10" y="890"> 1 - none, 2 - minimum</tspan>
+<tspan x="10" y="906">    --landscape                                 If set it will change orientation to landscape f\</tspan>
+<tspan x="10" y="922">rom portriat</tspan>
+<tspan x="10" y="938">    --print-background                          Whether to print CSS backgrounds</tspan>
+<tspan x="10" y="954">    -t --template [template]                    The template to used. Defaults to html5bp.</tspan>
+<tspan x="10" y="970">    --template-path [/path/to/template/folder]  Specifies the template folder path for static as\</tspan>
+<tspan x="10" y="986">sets, this will override template.</tspan>
+<tspan x="10" y="1002">    -d --render-delay [milli-seconds]           Delay before rendering the PDF (give HTML and CS\</tspan>
+<tspan x="10" y="1018">S a chance to load)</tspan>
+<tspan x="10" y="1034">    -o --output &lt;path&gt;                          Path of where to save the PDF</tspan>
+<tspan x="10" y="1050">    -V, --version                               output the version number</tspan>
+<tspan x="10" y="1066">    -i --include &lt;path&gt;..&lt;path&gt;                 path to either a javascript asset, or a css asse\</tspan>
+<tspan x="10" y="1082">t</tspan>
+<tspan x="10" y="1098">    --page-size [size]                          'A3', 'A4', 'Legal', 'Letter' or 'Tabloid'</tspan>
+<tspan x="10" y="1114">    --margin-type [n]                           Specify the type of margins to use: 0 - default,\</tspan>
+<tspan x="10" y="1130"> 1 - none, 2 - minimum</tspan>
+<tspan x="10" y="1146">    --landscape                                 If set it will change orientation to landscape f\</tspan>
+<tspan x="10" y="1162">rom portriat</tspan>
+<tspan x="10" y="1178">    --print-background                          Whether to print CSS backgrounds</tspan>
+<tspan x="10" y="1194">    -t --template [template]                    The template to used. Defaults to html5bp.</tspan>
+<tspan x="10" y="1210">    --template-path [/path/to/template/folder]  Specifies the template folder path for static as\</tspan>
+<tspan x="10" y="1226">sets, this will override template.</tspan>
+<tspan x="10" y="1242">    -d --render-delay [milli-seconds]           Delay before rendering the PDF (give HTML and CS\</tspan>
+<tspan x="10" y="1258">S a chance to load)</tspan>
+<tspan x="10" y="1274">    -o --output &lt;path&gt;                          Path of where to save the PDF</tspan>
+<tspan x="10" y="1290"></tspan>
+<tspan x="10" y="1306">Missing input path first argument</tspan>
+<tspan x="10" y="1322">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
+<tspan x="10" y="1338">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
+<tspan x="10" y="1354">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
+<tspan x="10" y="1370"></tspan>
+<tspan x="10" y="1386">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tmp\</tspan>
+<tspan x="10" y="1402">/electron.15b4660c4ce0.e67696f9aca3e.html</tspan>
+<tspan x="10" y="1418"></tspan>
+<tspan x="10" y="1434">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="1450">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="1466">merging file:///home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tmp/build/test-report.json to \</tspan>
+<tspan x="10" y="1482">test-report</tspan>
+<tspan x="10" y="1498">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="1514">[4971:0407/030639:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="1530">[4971:0407/030639:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="1546">&gt; server listening on http-port 36503</tspan>
+<tspan x="10" y="1562">[5002:0407/030639:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="1578">in process gpu-process. </tspan>
+<tspan x="10" y="1594">[4971:0407/030639:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="1610">merging file:///home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tmp/build/test-report.json to \</tspan>
+<tspan x="10" y="1626">test-report</tspan>
+<tspan x="10" y="1642">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="1658">[4975:0407/030639:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="1674">[4975:0407/030639:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="1690">[5036:0407/030640:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="1706">in process gpu-process. </tspan>
+<tspan x="10" y="1722">[4975:0407/030640:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="1738"></tspan>
+<tspan x="10" y="1754">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tmp/build/apidoc.htm\</tspan>
+<tspan x="10" y="1770">l</tspan>
+<tspan x="10" y="1786"></tspan>
+<tspan x="10" y="1802"></tspan>
+<tspan x="10" y="1818">browserTest - opened url http://127.0.0.1:65123?modeTest=1</tspan>
+<tspan x="10" y="1834"></tspan>
+<tspan x="10" y="1850">[4975:0407/030641:INFO:CONSOLE(250)] "----------|-----------|-----------|-----------|-----------\</tspan>
+<tspan x="10" y="1866">|</tspan>
+<tspan x="10" y="1882">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+<tspan x="10" y="1898">----------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="1914">----------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="1930">All files |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="1946">----------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="1962">", source: file:///home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tmp/electron.15b4660c4ce0.e\</tspan>
+<tspan x="10" y="1978">67696f9aca3e.html (250)</tspan>
+<tspan x="10" y="1994">[4975:0407/030641:INFO:CONSOLE(250)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
+<tspan x="10" y="2010">l", source: file:///home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tmp/electron.15b4660c4ce0.\</tspan>
+<tspan x="10" y="2026">e67696f9aca3e.html (250)</tspan>
+<tspan x="10" y="2042">[node test-case 4 of 6 passed] - testCase_buildApp_default</tspan>
+<tspan x="10" y="2058"></tspan>
+<tspan x="10" y="2074">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tm\</tspan>
+<tspan x="10" y="2090">p/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-html5-to-p\</tspan>
+<tspan x="10" y="2106">df_2Ftmp_2Fbuild_2Fapidoc.html.png</tspan>
+<tspan x="10" y="2122"></tspan>
+<tspan x="10" y="2138">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tm\</tspan>
+<tspan x="10" y="2154">p/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-html5-to-p\</tspan>
+<tspan x="10" y="2170">df_2Ftmp_2Fbuild_2Fapidoc.html.html</tspan>
+<tspan x="10" y="2186"></tspan>
+<tspan x="10" y="2202">browserTest - exit-code 0 - /home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tmp/build/apidoc.\</tspan>
+<tspan x="10" y="2218">html</tspan>
+<tspan x="10" y="2234"></tspan>
+<tspan x="10" y="2250">[node test-case 5 of 6 passed] - testCase_buildApidoc_default</tspan>
+<tspan x="10" y="2266"></tspan>
+<tspan x="10" y="2282">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tm\</tspan>
+<tspan x="10" y="2298">p/build/screenCapture.npmTest.browser..png</tspan>
+<tspan x="10" y="2314"></tspan>
+<tspan x="10" y="2330">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tm\</tspan>
+<tspan x="10" y="2346">p/build/screenCapture.npmTest.browser..html</tspan>
+<tspan x="10" y="2362"></tspan>
+<tspan x="10" y="2378">browserTest - exit-code 0 - http://127.0.0.1:65123?modeTest=1</tspan>
+<tspan x="10" y="2394"></tspan>
+<tspan x="10" y="2410"></tspan>
+<tspan x="10" y="2426">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tmp/covera\</tspan>
+<tspan x="10" y="2442">ge.npmTest.browser.%2F.json</tspan>
+<tspan x="10" y="2458"></tspan>
+<tspan x="10" y="2474"></tspan>
+<tspan x="10" y="2490">browserTest - merging test-report from /home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tmp/te\</tspan>
+<tspan x="10" y="2506">st-report.npmTest.browser.%2F.json</tspan>
+<tspan x="10" y="2522"></tspan>
+<tspan x="10" y="2538">[node test-case 6 of 6 passed] - testCase_webpage_default</tspan>
+<tspan x="10" y="2554">---------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="2570">File                             |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+<tspan x="10" y="2586">---------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="2602">   node-npmdoc-html5-to-pdf/     |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2618">      example.js                 |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2634">      lib.npmdoc_html5_to_pdf.js |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2650">      test.js                    |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2666">---------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="2682">All files                        |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2698">---------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="2714"></tspan>
+<tspan x="10" y="2730">created coverage file:///home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tmp/build/coverage.ht\</tspan>
+<tspan x="10" y="2746">ml/index.html</tspan>
+<tspan x="10" y="2762">merging file:///home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tmp/build/test-report.json to \</tspan>
+<tspan x="10" y="2778">test-report</tspan>
+<tspan x="10" y="2794"></tspan>
+<tspan x="10" y="2810">-------------------------------------------------------</tspan>
+<tspan x="10" y="2826">| test-report - buildNpmdoc - node - linux v6.10.2 - 2017-04-07T03:06:16.722Z</tspan>
+<tspan x="10" y="2842">|   37243 ms            0 failed        6 passed      |</tspan>
+<tspan x="10" y="2858">-------------------------------------------------------</tspan>
+<tspan x="10" y="2874"></tspan>
+<tspan x="10" y="2890">created test-report file:///home/travis/build/npmdoc/node-npmdoc-html5-to-pdf/tmp/build/test-rep\</tspan>
+<tspan x="10" y="2906">ort.html</tspan>
+<tspan x="10" y="2922"></tspan>
+<tspan x="10" y="2938"></tspan>
+<tspan x="10" y="2954">npmTest - 0 failed tests</tspan>
+<tspan x="10" y="2970"></tspan>
+<tspan x="10" y="2986"></tspan>
+<tspan x="10" y="3002">[MODE_BUILD=npmTest] - 2017-04-07T03:06:57Z - EXIT_CODE - 0</tspan>
+</text>
+</svg>
