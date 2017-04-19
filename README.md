@@ -1,9 +1,14 @@
-# api documentation for  [html5-to-pdf (v2.2.1)](https://github.com/peterdemartini/html5-to-pdf)  [![npm package](https://img.shields.io/npm/v/npmdoc-html5-to-pdf.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-html5-to-pdf) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-html5-to-pdf.svg)](https://travis-ci.org/npmdoc/node-npmdoc-html5-to-pdf)
+# npmdoc-html5-to-pdf
+
+#### api documentation for  [html5-to-pdf (v2.2.1)](https://github.com/peterdemartini/html5-to-pdf)  [![npm package](https://img.shields.io/npm/v/npmdoc-html5-to-pdf.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-html5-to-pdf) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-html5-to-pdf.svg)](https://travis-ci.org/npmdoc/node-npmdoc-html5-to-pdf)
+
 #### HTML5 to PDF converter
 
-[![NPM](https://nodei.co/npm/html5-to-pdf.png?downloads=true)](https://www.npmjs.com/package/html5-to-pdf)
+[![NPM](https://nodei.co/npm/html5-to-pdf.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/html5-to-pdf)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-html5-to-pdf/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-html5-to-pdf_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-html5-to-pdf/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-html5-to-pdf/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-html5-to-pdf/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-html5-to-pdf/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-html5-to-pdf/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-html5-to-pdf/build/screenCapture.npmPackageListing.svg)
 
@@ -67,13 +72,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "peterdemartini",
-            "email": "peter@superlativecode.com"
+            "name": "peterdemartini"
         }
     ],
     "name": "html5-to-pdf",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/peterdemartini/html5-to-pdf.git"
@@ -85,16 +88,6 @@
     "version": "2.2.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module html5-to-pdf](#apidoc.module.html5-to-pdf)
-
-
-
-# <a name="apidoc.module.html5-to-pdf"></a>[module html5-to-pdf](#apidoc.module.html5-to-pdf)
 
 
 
